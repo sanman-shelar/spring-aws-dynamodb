@@ -1,6 +1,6 @@
-# Spring Boot REST using Amazon DynamoDB [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
+# Spring Boot REST using Amazon DynamoDB [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Demo project to showcase capabilites of Amazon DynamoDB.
+Demo project to showcase capabilities of Amazon DynamoDB.
 
 # Requirements
   - Java 11
